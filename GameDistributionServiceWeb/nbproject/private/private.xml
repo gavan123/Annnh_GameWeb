@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/SWP/SWP-Project-2/SWP391_SE1630NET_GROUP4/GameDistributionServiceWeb/src/java/controller/EditProfileServlet.java</file>
+            <file>file:/D:/SWP/SWP-Project-2/SWP391_SE1630NET_GROUP4/GameDistributionServiceWeb/src/java/controller/ForgotPasswordServlet.java</file>
+            <file>file:/D:/SWP/SWP-Project-2/SWP391_SE1630NET_GROUP4/GameDistributionServiceWeb/src/java/dal/UserGameRateDAO.java</file>
+            <file>file:/D:/SWP/SWP-Project-2/SWP391_SE1630NET_GROUP4/GameDistributionServiceWeb/src/java/dal/UserDAO.java</file>
+            <file>file:/D:/SWP/SWP-Project-2/SWP391_SE1630NET_GROUP4/GameDistributionServiceWeb/src/java/dal/DAOInterface/IUserDAO.java</file>
+            <file>file:/D:/SWP/SWP-Project-2/SWP391_SE1630NET_GROUP4/GameDistributionServiceWeb/src/java/model/Game.java</file>
+            <file>file:/D:/SWP/SWP-Project-2/SWP391_SE1630NET_GROUP4/GameDistributionServiceWeb/src/java/model/UserGameDeveloper.java</file>
+            <file>file:/D:/SWP/SWP-Project-2/SWP391_SE1630NET_GROUP4/GameDistributionServiceWeb/src/java/dal/AdminDAO.java</file>
+            <file>file:/D:/SWP/SWP-Project-2/SWP391_SE1630NET_GROUP4/GameDistributionServiceWeb/src/java/controller/LoginServlet.java</file>
+            <file>file:/D:/SWP/SWP-Project-2/SWP391_SE1630NET_GROUP4/GameDistributionServiceWeb/src/java/controller/LogoutServlet.java</file>
+            <file>file:/D:/SWP/SWP-Project-2/SWP391_SE1630NET_GROUP4/GameDistributionServiceWeb/web/Profile.jsp</file>
+            <file>file:/D:/SWP/SWP-Project-2/SWP391_SE1630NET_GROUP4/GameDistributionServiceWeb/src/java/dal/DAOInterface/IUserNotificationDAO.java</file>
+            <file>file:/D:/SWP/SWP-Project-2/SWP391_SE1630NET_GROUP4/GameDistributionServiceWeb/src/java/controller/AdminNewRelease.java</file>
+            <file>file:/D:/SWP/SWP-Project-2/SWP391_SE1630NET_GROUP4/GameDistributionServiceWeb/src/java/controller/GameByCategory.java</file>
+            <file>file:/D:/SWP/SWP-Project-2/SWP391_SE1630NET_GROUP4/GameDistributionServiceWeb/src/java/controller/TransactionhistoryServlet.java</file>
+            <file>file:/D:/SWP/SWP-Project-2/SWP391_SE1630NET_GROUP4/GameDistributionServiceWeb/src/java/controller/RegisterServlet.java</file>
+            <file>file:/D:/SWP/SWP-Project-2/SWP391_SE1630NET_GROUP4/GameDistributionServiceWeb/src/java/controller/UpdateGameServlet.java</file>
+            <file>file:/D:/SWP/SWP-Project-2/SWP391_SE1630NET_GROUP4/GameDistributionServiceWeb/src/java/controller/VoteGameServlet.java</file>
+            <file>file:/D:/SWP/SWP-Project-2/SWP391_SE1630NET_GROUP4/GameDistributionServiceWeb/src/java/controller/AdminMainScreenServlet.java</file>
+            <file>file:/D:/SWP/SWP-Project-2/SWP391_SE1630NET_GROUP4/GameDistributionServiceWeb/src/java/dal/DAOInterface/IRequestDAO.java</file>
+            <file>file:/D:/SWP/SWP-Project-2/SWP391_SE1630NET_GROUP4/GameDistributionServiceWeb/web/AllComments.jsp</file>
+            <file>file:/D:/SWP/SWP-Project-2/SWP391_SE1630NET_GROUP4/GameDistributionServiceWeb/web/EditProfile.jsp</file>
+            <file>file:/D:/SWP/SWP-Project-2/SWP391_SE1630NET_GROUP4/GameDistributionServiceWeb/web/Category.jsp</file>
+            <file>file:/D:/SWP/SWP-Project-2/SWP391_SE1630NET_GROUP4/GameDistributionServiceWeb/web/UpdateGame.jsp</file>
+            <file>file:/D:/SWP/SWP-Project-2/SWP391_SE1630NET_GROUP4/GameDistributionServiceWeb/src/java/model/Media.java</file>
+            <file>file:/D:/SWP/SWP-Project-2/SWP391_SE1630NET_GROUP4/GameDistributionServiceWeb/web/WEB-INF/web.xml</file>
+            <file>file:/D:/SWP/SWP-Project-2/SWP391_SE1630NET_GROUP4/GameDistributionServiceWeb/src/java/dal/GameDAO.java</file>
+            <file>file:/D:/SWP/SWP-Project-2/SWP391_SE1630NET_GROUP4/GameDistributionServiceWeb/src/java/controller/AdminBestSelling.java</file>
+            <file>file:/D:/SWP/SWP-Project-2/SWP391_SE1630NET_GROUP4/GameDistributionServiceWeb/src/java/dal/DAOInterface/IGameDAO.java</file>
+            <file>file:/D:/SWP/SWP-Project-2/SWP391_SE1630NET_GROUP4/GameDistributionServiceWeb/web/Login.jsp</file>
+            <file>file:/D:/SWP/SWP-Project-2/SWP391_SE1630NET_GROUP4/GameDistributionServiceWeb/src/java/controller/UploadGameServlet.java</file>
+            <file>file:/D:/SWP/SWP-Project-2/SWP391_SE1630NET_GROUP4/GameDistributionServiceWeb/src/java/Util/ForgotPassUtils.java</file>
+            <file>file:/D:/SWP/SWP-Project-2/SWP391_SE1630NET_GROUP4/GameDistributionServiceWeb/src/java/model/GameCategory.java</file>
+            <file>file:/D:/SWP/SWP-Project-2/SWP391_SE1630NET_GROUP4/GameDistributionServiceWeb/src/java/controller/AboutServlet.java</file>
+            <file>file:/D:/SWP/SWP-Project-2/SWP391_SE1630NET_GROUP4/GameDistributionServiceWeb/src/java/dal/DAOInterface/IMediaDAO.java</file>
+            <file>file:/D:/SWP/SWP-Project-2/SWP391_SE1630NET_GROUP4/GameDistributionServiceWeb/src/java/controller/AdminGameDetail.java</file>
+            <file>file:/D:/SWP/SWP-Project-2/SWP391_SE1630NET_GROUP4/GameDistributionServiceWeb/src/java/dal/DAOInterface/IUserGameCommentDAO.java</file>
+            <file>file:/D:/SWP/SWP-Project-2/SWP391_SE1630NET_GROUP4/GameDistributionServiceWeb/web/About.jsp</file>
+        </group>
+    </open-files>
+</project-private>
